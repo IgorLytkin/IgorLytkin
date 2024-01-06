@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65991ff0ae22c12523304752?variant=dark)](https://roadmap.sh)
 
 <!--
 **IgorLytkin/IgorLytkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65991ff0ae22c12523304752?variant=dark)](https://roadmap.sh)
 -->
