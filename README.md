@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, PowerShell, SQL, backend full stack, AstraLinux, Ubuntu
 - 👯 I’m looking to collaborate on Neo4j, Big Data, Data science, econometrics
 - 💬 Ask me about servers and services
-- 📫 How to reach me: <div id="badges">
+- 📫 How to reach me:<div id="badges">
   <a href="mailto:igor.lytkin.2020@ya.ru">
     <img src="https://img.shields.io/badge/Yandex-red?style=flat&logoColor=white"/>
   </a>
@@ -14,6 +14,9 @@
   </a> 
   <a href="https://instagram.com/igorlytkin2023">
     <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/ivlytkin">
+    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=Twitter&logoColor=white"/>
 </a>
 </div>
 <!--
