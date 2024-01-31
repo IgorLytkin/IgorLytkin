@@ -7,9 +7,9 @@
 - 💬 Ask me about servers and services
 - 📫 How to reach me:
 - <div id="badges">
-<a href="mailto:igor.lytkin.2020@ya.ru"><img src="https://img.shields.io/badge/Igor.Lytkin.2020@ya.ru?style=flat&logoColor=white"/></a>
-<a href="https://t.me/IgorLytkin"><img src="https://img.shields.io/badge/@IgorLytkin?color=blue&logo=telegram&logoColor=white"/></a> 
-<a href="https://instagram.com/igorlytkin2023"><img src="https://img.shields.io/badge/IgorLytkin?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:igor.lytkin.2020@ya.ru"><img src="https://img.shields.io/badge/?style=flat&logoColor=white"/></a>
+<a href="https://t.me/IgorLytkin"><img src="https://img.shields.io/badge/?color=blue&logo=telegram&logoColor=white"/></a> 
+<a href="https://instagram.com/igorlytkin2023"><img src="https://img.shields.io/badge/?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
 <!--
 **IgorLytkin/IgorLytkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
