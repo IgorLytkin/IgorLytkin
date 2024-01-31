@@ -10,7 +10,8 @@
 <a href="https://www.facebook.com/igorlytkin2023/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/igorlytkin2023"><img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/ivlytkin"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://https://www.linkedin.com/in/igor-lytkin-29516552"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/igor-lytkin-29516552"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCmiOCyMzEFRdnYNceaPcGpw"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
 </div>
 <!--
 **IgorLytkin/IgorLytkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
