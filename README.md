@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65991ff0ae22c12523304752?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65991ff0ae22c12523304752?variant=dark&t=1704802165428](https://roadmap.sh)
 - 🔭 I’m currently working on my Python and Neo4j pet-projects
 - 🌱 I’m currently learning Python, PowerShell, SQL, backend, full-stack, AstraLinux, Ubuntu
 - 👯 I’m looking to collaborate on Neo4j, Big Data, Data science, econometrics
