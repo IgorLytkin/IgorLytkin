@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Neo4j, Big Data, Data science, econometrics
 - 💬 Ask me about servers,services and cybersecurity
 - 📫 How to reach me:<div id="badges"><a href="mailto:igor.lytkin.2020@ya.ru"><img src="https://img.shields.io/badge/Яндекс-red?style=flat&logoColor=white"/></a>
-<a href="https://t.me/IgorLytkin"><img src="https://img.shields.io/badge/Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/LR3jqHBTKdjPKec1sBNymD9vXNssiBAG"><img src="https://img.shields.io/badge/Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/igorlytkin2023/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/igorlytkin2023"><img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://x.com/ynBU5k_9DhB5ooi"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white"/></a>
