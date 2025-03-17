@@ -9,7 +9,7 @@
 <a href="https://t.me/LR3jqHBTKdjPKec1sBNymD9vXNssiBAG"><img src="https://img.shields.io/badge/Telegram-blue?color=blue&logo=telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/igorlytkin2023/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/igorlytkin2023"><img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/ynBU5k_9DhB5ooi"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/IgorLytkin2025"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/igor-lytkin-29516552"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCmiOCyMzEFRdnYNceaPcGpw"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a>
 </div>
